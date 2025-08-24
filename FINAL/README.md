@@ -1,4 +1,0 @@
-# CVPR
-
-Final term project
-
